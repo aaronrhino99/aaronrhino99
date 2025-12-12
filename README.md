@@ -2,8 +2,7 @@
 
 I am a Linux enthusiast and over the top about open source software
 
-Here is a PKGBUILD for my dotfiles 
-- [ZimOS](https://github.com/h4ppyr0gu3/zimos)
+
 
 #### Languages:
 <div>
