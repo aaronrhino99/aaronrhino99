@@ -1,6 +1,6 @@
 ## Web Developer | Ruby on Rails 
 
-I am a Linux enthusiast and over the top about open source software
+I am a Web development enthusiast and over the top about open source software.
 
 
 
